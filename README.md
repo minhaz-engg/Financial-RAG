@@ -121,7 +121,8 @@ The system was tested with a set of 13 financial queries derived from the Meta Q
 | What is the expected effect of foreign currency on Meta's revenue growth? | 1% | 1% headwind | Correct |
 
 ### 3.3 Step 3: Advanced RAG Pipeline Results
-Questions	Expected Answers	Step 3 output	Correct?
+| Questions | Expected Answers | Step 3 output | Correct? |
+|-----------|-----------------|---------------|:--------:|
 When did Meta report its first quarter 2024 results?	April 24, 2024.	Meta reported its first quarter 2024 results on April 24, 2024.	Correct
 What was Meta's total revenue for Q1 2024?	$36.455 billion.	$36.46 billion	Correct
 How much did Meta's revenue increase compared to Q1 2023?	27%	27% year-over-year.	Correct
