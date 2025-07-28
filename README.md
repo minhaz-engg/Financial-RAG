@@ -3,6 +3,12 @@ _Minaz Chowdhury_
 
 ---
 
+### Run the codes on kaggle
+Task 1: https://www.kaggle.com/code/minhazengg/rag-task-1
+Task 2: https://www.kaggle.com/code/minhazengg/rag-task-2
+Task 3: https://www.kaggle.com/code/minhazengg/rag-task-3
+
+
 ## 1. Introduction
 
 This project focuses on building a Retrieval-Augmented Generation (RAG) system tailored to answer user queries related to financial performance, specifically targeting Meta's Q1 2024 financial report. The system leverages both unstructured textual data extracted from the financial PDF report and structured tabular data within. By using advanced natural language processing techniques combined with information retrieval methods, the application provides precise and context-aware answers to diverse financial queries.
