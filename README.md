@@ -121,21 +121,21 @@ The system was tested with a set of 13 financial queries derived from the Meta Q
 | What is the expected effect of foreign currency on Meta's revenue growth? | 1% | 1% headwind | Correct |
 
 ### 3.3 Step 3: Advanced RAG Pipeline Results
-| Questions | Expected Answers | Step 3 output | Correct? |
+| Questions | Expected Answers | Step 2 output | Correct? |
 |-----------|-----------------|---------------|:--------:|
-When did Meta report its first quarter 2024 results?	April 24, 2024.	Meta reported its first quarter 2024 results on April 24, 2024.	Correct
-What was Meta's total revenue for Q1 2024?	$36.455 billion.	$36.46 billion	Correct
-How much did Meta's revenue increase compared to Q1 2023?	27%	27% year-over-year.	Correct
-What were the total costs and expenses for Meta in Q1 2024?	$22.637 billion.	$22.64 billion	Correct
-How much income from operations did Meta report in Q1 2024?	$13.818 billion	$13,818 billion	Correct
-What was Meta's operating margin in Q1 2024?	38%	38%	Correct
-How much provision for income taxes did Meta have in Q1 2024?	$1.814 billion	$1.814 million	Incorrect ($1.814 billion expected)
-What was Meta’s effective tax rate in Q1 2024?	13%	13%.	Correct
-How much net income did Meta earn in Q1 2024?	$12.369 billion	$12,369 million	Mostly correct (units)
-What was Meta’s diluted earnings per share (EPS) for Q1 2024?	$4.71	4.71.	Correct
-What was the amount paid as dividends in Q1 2024?	$1.27 billion	Various inconsistent answers from model ($100 million, $1 billion, $10/share, etc.)	Confused output
-What revenue range does Meta expect for Q2 2024?	$36.5 to $39 billion.	$36.45 billion to $36.35 billion (slightly inconsistent range)	Correct
-What is the expected effect of foreign currency on Meta's revenue growth?	1%	Increase revenue by 6% (incorrect direction and magnitude)	Incorrect
+|When did Meta report its first quarter 2024 results?|	April 24, 2024.	|Meta reported its first quarter 2024 results on April 24, 2024.|	Correct|
+|What was Meta's total revenue for Q1 2024?	|$36.455 billion.|	$36.46 billion|	Correct|
+|How much did Meta's revenue increase compared to Q1 2023?|	27%|	27% year-over-year.|Correct|
+|What were the total costs and expenses for Meta in Q1 2024?|	$22.637 billion.|	$22.64 billion	|Correct|
+|How much income from operations did Meta report in Q1 2024?|	$13.818 billion	|$13,818 billion	|Correct|
+|What was Meta's operating margin in Q1 2024?|	38%	|38%	|Correct
+|How much provision for income taxes did Meta have in Q1 2024?|	$1.814 billion	|$1.814 million	|Incorrect ($1.814 billion expected)|
+|What was Meta’s effective tax rate in Q1 2024?|	13%|	13%.|	Correct|
+|How much net income did Meta earn in Q1 2024?	|$12.369 billion|	$12,369 million|	Mostly correct (units)|
+|What was Meta’s diluted earnings per share (EPS) for Q1 2024?|	$4.71|	4.71.|	Correct|
+|What was the amount paid as dividends in Q1 2024?	|$1.27 billion	|Various inconsistent answers from model ($100 million, $1 billion, $10/share, etc.)|	Confused output|
+|What revenue range does Meta expect for Q2 2024?|	$36.5 to $39 billion.|	$36.45 billion to $36.35 billion (slightly inconsistent range)	|Correct|
+|What is the expected effect of foreign currency on Meta's revenue growth?|	1%	|Increase revenue by 6% (incorrect direction and magnitude)	|Incorrect|
 ## 4. Discussion
 The results indicate clear progressive improvement from Step 1 through Step 3, demonstrating the value of incremental enhancements:
 
